@@ -1,0 +1,23 @@
+# Raw event data (contains member information)
+*.csv
+*.twb
+*.twbr
+
+# Processed data
+processed/
+data/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# Environment variables and secrets
+.env
+
+# Operating system files
+.DS_Store
+Thumbs.db
